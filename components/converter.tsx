@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import convertMMuMToBeerXML from "mmum-beerxml-converter-beta";
+import { MMuM_V1 } from "mmum-beerxml-converter-beta/type";
 import { XMLBuilder } from "fast-xml-parser";
 
 export default function JsonConverter() {

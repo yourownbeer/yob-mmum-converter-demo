@@ -17,7 +17,7 @@
     "clsx": "^2.1.0",
     "fast-xml-parser": "^4.3.4",
     "lucide-react": "^0.331.0",
-    "mmum-beerxml-converter-beta": "^0.9.3",
+    "mmum-beerxml-converter-beta": "^0.9.4",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
